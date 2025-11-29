@@ -1,0 +1,19 @@
+---
+---
+
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+.thought {
+  padding: 0.9rem 1rem;
+  margin: 1rem 0;
+  border-left: 5px solid #1706d4;
+  background: #05223a;
+  font-size: 1.2rem;
+  color: #cddad9;
+  border-radius: 12px;
+}
