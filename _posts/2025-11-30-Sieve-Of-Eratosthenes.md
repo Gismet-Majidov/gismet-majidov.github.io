@@ -3,7 +3,7 @@ title: Sieve of Eratosthenes - Or How to Hunt Primes
 description: Sift the Two's and Sift the Three's. The Sieve of Eratosthenes. When the multiples sublime,The numbers that remain are Prime.
 author: Gismet Majidov
 date: 2025-11-30 15:7:00 +0400
-categories: [Math, Number Theory]
+categories: [Maths, Number Theory]
 tags: [math, number theory]
 math: true
 ---
