@@ -4,7 +4,7 @@ description: This is a YouTube video from The Serious CTO
 author: Gismet Majidov
 date: 2025-12-23 23:03:00 +0400
 categories: [YouTube, Software Development]
-tags: [video, learning, youtube, dev, programming]
+tags: [video, learn, youtube, dev, programming]
 math: true
 ---
 
