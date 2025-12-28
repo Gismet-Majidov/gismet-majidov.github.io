@@ -29,3 +29,18 @@ using MinHeap = priority_queue<T, vector<T>, greater<T>>;
 MinHeap<pair<long long, int>> q;
 MaxHeap<double> q;
 ```
+
+## Binary search for the custome types
+
+```cpp
+
+// find the first event whose start is greater than the end of the current event
+auto it = upper_bound(events.begin(), events.end(), events[i][1],
+                [](int end, const vector<int>& event){
+                    return end < event[0];
+                }); //in the comparator, the first one is the value based on which you want to search and the second parameter's type is the type of the elements in the array (container)
+
+auto it = lower_bound(arr.begin(), arr.end(), arr[i].age, [](const Person& person, int age){
+    return person.age < age;
+}); //for the lower_bound, the search value comes second
+```
