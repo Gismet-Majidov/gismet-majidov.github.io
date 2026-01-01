@@ -60,4 +60,5 @@ math: true
    * [2071. Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/description/) ❌
    * [1840 D. Wooden Toy Festival](https://codeforces.com/contest/1840/problem/D)
    * [1873 E. Building an Aquarium](https://codeforces.com/contest/1873/problem/E)
+   * [1970 Last Day Where You Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/)
    * 
