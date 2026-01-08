@@ -54,3 +54,4 @@ math: true
 41. [Fibonacci Heap](https://en.wikipedia.org/wiki/Fibonacci_heap)
 42. [Rope](https://en.wikipedia.org/wiki/Rope_(data_structure))
 43. [Aho–Corasick automaton](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
+44. [Value Categories: Lvalues and Rvalues (C++)](https://learn.microsoft.com/en-us/cpp/cpp/lvalues-and-rvalues-visual-cpp?view=msvc-170)
