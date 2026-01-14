@@ -63,12 +63,21 @@ auto getSum = [&](int l, int r){
 
 ```
 
-
 ## 2D Prefix Sum
 
 ```cpp
+//1-based indexing
+vector<vector<int>> presum(m+1, vector<int>(n+1));
 
- 
+for(int i = 1; i <=m; i++){
+    for(int j = 1; j<=n; j++){
+        presum[i][j] = arr[i-1][j-1] + presum[i][j-1] + presum[i-1][j] - presum[i-1][j-1];
+    }
+}
 
-
+//0-index search, (r1, c1) is the top-left corner indices and (r2,c2) for the bottom-right
+auto getSum = [&](int r1, int c1, int r2, int c2){
+    ++r1, ++c1, ++r2, ++c2;
+    return presum[r2][c2] - presum[r1-1][c2] - presum[r2][c1-1] + presum[r1-1][c1-1];
+};  
 ```
