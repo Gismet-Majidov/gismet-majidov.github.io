@@ -3,7 +3,7 @@ title: Existence proof - A simple yet an interesting problem
 description: Show that a solution exist for this easy problem :)
 author: Gismet Majidov
 date: 2025-11-11 22:40:00 +0800
-categories: [Maths, Proof]
+categories: [Math, Proof]
 tags: [proofs, problem solving]
 math: true
 ---

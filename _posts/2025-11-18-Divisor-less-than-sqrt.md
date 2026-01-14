@@ -3,7 +3,7 @@ title: Every composite integer has a divisor less than or equal to its square ro
 description: For any composit integer, it has always a divisor less than or equal to its square root. 
 author: Gismet Majidov
 date: 2025-11-18 23:02:00 +0400
-categories: [Maths, Proof]
+categories: [Math, Proof]
 tags: [number theory, math, proof]
 math: true
 ---
