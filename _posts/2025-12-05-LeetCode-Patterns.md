@@ -61,4 +61,5 @@ math: true
    * [1840 D. Wooden Toy Festival](https://codeforces.com/contest/1840/problem/D)
    * [1873 E. Building an Aquarium](https://codeforces.com/contest/1873/problem/E)
    * [1970 Last Day Where You Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/)
+   * [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/)
    * 

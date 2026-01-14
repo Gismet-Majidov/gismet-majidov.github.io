@@ -44,3 +44,31 @@ auto it = lower_bound(arr.begin(), arr.end(), arr[i].age, [](const Person& perso
     return person.age < age;
 }); //for the lower_bound, the search value comes second
 ```
+
+
+## 1D Prefix Sum
+
+```cpp
+
+vector<int> presum(n+1);
+
+for(int i = 1; i <=n; i++){
+    presum[i] = presum[i-1] + arr[i-1];
+}
+
+//0-index
+auto getSum = [&](int l, int r){
+    return psum[r+1] - psum[l];
+};
+
+```
+
+
+## 2D Prefix Sum
+
+```cpp
+
+ 
+
+
+```
