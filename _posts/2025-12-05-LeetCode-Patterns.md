@@ -21,6 +21,10 @@ math: true
 ## Priority Queue/Set/Map
 * Regret Greedy
   * Problem: [871. Minimum Number of Refueling Stops LeetCode](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)
+* Greedy Expansion/Merge-Sorted-Lists Type
+  * [2386. Find the K-Sum of an Array](https://leetcode.com/problems/find-the-k-sum-of-an-array/description/)
+  * [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)
+  * [313 Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/) (similar idea to 2386)
 
 
 
@@ -63,3 +67,5 @@ math: true
    * [1970 Last Day Where You Still Cross](https://leetcode.com/problems/last-day-where-you-can-still-cross/description/)
    * [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/description/)
    * [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/)
+   * [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/) ❌
+   * [3097. Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/description/)
