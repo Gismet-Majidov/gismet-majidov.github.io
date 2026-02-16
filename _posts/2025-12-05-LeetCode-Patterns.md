@@ -21,7 +21,7 @@ math: true
 ## Priority Queue/Set/Map
 * Regret Greedy
   * Problem: [871. Minimum Number of Refueling Stops LeetCode](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)
-* Greedy Expansion/Merge-Sorted-Lists Type
+* Greedy Expansion/Merge-Sorted-Lists Type/Generate-Next Type
   * [2386. Find the K-Sum of an Array](https://leetcode.com/problems/find-the-k-sum-of-an-array/description/)
   * [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)
   * [313 Super Ugly Number](https://leetcode.com/problems/super-ugly-number/description/) (similar idea to 2386)
